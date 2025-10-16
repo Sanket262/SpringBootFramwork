@@ -24,6 +24,7 @@ public class EmployeeController {
     {
         int i=10;
         int j=30;
+        int age=16;
     	return "hello world from string Objet";
     }
     
