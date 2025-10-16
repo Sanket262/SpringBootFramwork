@@ -22,6 +22,7 @@ public class EmployeeController {
     public String gtdata()
     {
         int i=10;
+        int j=30;
     	return "hello world from string Objet";
     }
     
