@@ -21,6 +21,7 @@ public class EmployeeController {
     @GetMapping("/getdata3")
     public String gtdata()
     {
+        int i=10;
     	return "hello world from string Objet";
     }
     
