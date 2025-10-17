@@ -1,6 +1,11 @@
 hii How are you
+<<<<<<< HEAD
 Hello
 !!!!!!!!
+
+hii.....
+
+1
 
 
 
